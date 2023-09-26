@@ -78,6 +78,10 @@ void to_next_Station(double now_L,double now_distance,int toStation,double price
     }
 }
 int main(){
+    
+//洛谷刷题:https://www.luogu.com.cn/problem/P1016
+//旅行家的预算
+
     /*
     D1:两个城市之间距离
     C:汽车油箱的容量,以升为单位
