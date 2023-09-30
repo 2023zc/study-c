@@ -17,7 +17,6 @@ int search(int target){
 //洛谷刷题:https://www.luogu.com.cn/problem/P1014
 //Cantor 表
 
-
 int main(){
     int n,ans_up,ans_down;
     cin>>n;
